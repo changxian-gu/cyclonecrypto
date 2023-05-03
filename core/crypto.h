@@ -61,9 +61,6 @@
  * #define GPL_LICENSE_TERMS_ACCEPTED
  */
 
-#ifndef GPL_LICENSE_TERMS_ACCEPTED
-   #error Before compiling CycloneCRYPTO Open, you must accept the terms of the GPL license
-#endif
 
 //Version string
 #define CYCLONE_CRYPTO_VERSION_STRING "2.2.4"
